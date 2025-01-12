@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|d:\\curd_operation_mvc_demo_updated\\curd_operation_mvc_demo\\curd_operation_mvc_demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\curd_operation_mvc_demo\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBE1D870-7EB3-42D9-AB82-9EC41FF3A71D}|CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo.csproj|solutionrelative:curd_operation_mvc_demo\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 127,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:36:04.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T23:48:35.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T23:49:53.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:34:40.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:36:59.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:35:07.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:37:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:27:54.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:31:20.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Content\\Site.css",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Content\\Site.css",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Content\\Site.css",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Content\\Site.css",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAANkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-10T17:49:39.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:34:08.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:36:34.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:42:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Web.config",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Web.config",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Web.config",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-10T16:57:33.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Web.Debug.config",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Web.Debug.config",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Web.Debug.config",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-10T23:55:07.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Web.Release.config",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Web.Release.config",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Web.Release.config",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-10T23:55:15.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\packages.config",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\packages.config",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\packages.config",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-10T23:55:18.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Global.asax.cs",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Global.asax.cs",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:55:32.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T17:31:12.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvx8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:11:09.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:10:37.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:56:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Models\\Product.cs",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Models\\Product.cs",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:53:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CURD_Operation_MVC_Demo\\Models\\Category.cs",
+              "ToolTip": "D:\\CURD_Operation_MVC_Demo_Updated\\CURD_Operation_MVC_Demo\\CURD_Operation_MVC_Demo\\Models\\Category.cs",
+              "RelativeToolTip": "CURD_Operation_MVC_Demo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:53:00.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

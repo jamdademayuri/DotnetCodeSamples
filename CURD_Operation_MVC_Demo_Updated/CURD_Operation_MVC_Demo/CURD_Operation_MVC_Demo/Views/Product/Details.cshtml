@@ -1,0 +1,21 @@
+﻿@model CURD_Operation_MVC_Demo.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h3>Product Details</h3>
+<hr />
+
+<div>
+    <div><b>@Html.DisplayNameFor(model => model.Category.CategoryName)</b> : @Html.DisplayFor(model => model.Category.CategoryName) </div>
+    <br />
+    <div><b>@Html.DisplayNameFor(model => model.ProductName)</b> :  @Html.DisplayFor(model => model.ProductName) </div>
+
+</div>
+<p>
+    <i class="fa fa-edit"></i>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }) |
+    <i class="fa fa-list"></i>
+    @Html.ActionLink("Back to Product List", "Index")
+</p>

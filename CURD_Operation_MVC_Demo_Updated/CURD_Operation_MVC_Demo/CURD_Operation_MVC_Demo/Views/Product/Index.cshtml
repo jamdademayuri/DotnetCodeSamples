@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CURD_Operation_MVC_Demo.Models.Product>
+
+@{
+    ViewBag.Title = "Product List";
+}
+
+<h2>Product List</h2>
+<hr />
+
+<p>
+    <i class="fa fa-plus"></i>
+    @Html.ActionLink("Create New", "Create") |
+    <i class="fa fa-list"></i>
+    @Html.ActionLink("Go to Category List", "Index", "Category")
+</p>
+<table class="table">
+
+    @{
+        int totalPages = (int)Math.Ceiling((double)ViewBag.TotalProducts / ViewBag.PageSize);
+        int currentPage = ViewBag.CurrentPage;
+    }
+
+    <thead>
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Category Id</th>
+            <th>Category Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.ProductName</td>
+                <td>@item.Category.CategoryId</td>
+                <td>@item.Category.CategoryName</td>
+                <td>
+                    @Html.ActionLink(" Edit", "Edit", new { id = item.ProductId }, new { @class = "fa fa-edit" }) |
+                    @Html.ActionLink(" Details", "Details", new { id = item.ProductId }, new { @class = "fa fa-info" }) |
+                    @Html.ActionLink(" Delete", "Delete", new { id = item.ProductId }, new { @class = "fa fa-trash" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<div>
+    @for (int i = 1; i <= totalPages; i++)
+    {
+        <a href="@Url.Action("Index", new { page = i })"
+           class="@(i == currentPage ? "active" : "")">@i</a>
+    }
+</div>

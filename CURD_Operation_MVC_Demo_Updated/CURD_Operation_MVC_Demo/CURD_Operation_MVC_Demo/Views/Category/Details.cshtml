@@ -1,0 +1,20 @@
+﻿@model CURD_Operation_MVC_Demo.Models.Category
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h3>Category Details</h3>
+<hr />
+
+
+    <div class="">
+        <b> @Html.DisplayNameFor(model => model.CategoryName)</b> : @Html.DisplayFor(model => model.CategoryName)
+    </div>
+
+    <p>
+        <i class="fa fa-edit"></i>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CategoryId }) |
+        <i class="fa fa-list"></i>
+        @Html.ActionLink("Back to Category List", "Index")
+    </p>
